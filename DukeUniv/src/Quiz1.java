@@ -14,6 +14,6 @@ public class Quiz1 {
     public static void main(String[] args) {
         Quiz1 obj = new Quiz1 ();
         int h = obj.h();
-        System.out.print(h);
+        System.out.print("\nValue of function h() is: "+h);
     }
 }
