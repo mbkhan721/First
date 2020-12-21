@@ -18,6 +18,8 @@ public class Functions {
         System.out.println("value of myFunction is :  "+p.myFunction(2,3));
         System.out.println("\nvalue of f is : "+p.f(3));
         System.out.println("\nvalue of g is : "+p.g());
+
+        // System.out.println(p.g()); // get the value of g() only
     }
 
 }
