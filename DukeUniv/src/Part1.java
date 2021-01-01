@@ -38,38 +38,28 @@ public class Part1 {
     /*
     public void testSimpleGene() {
         String dna = "CGCDCDCSCTAADCD";
-        String startCodon = "ATG";
-        String stopCodon = "TAA";
         System.out.println("DNA strand: " + dna);
-        String gene = findSimpleGene(dna, startCodon, stopCodon);
+        String gene = findSimpleGene(dna);
         System.out.println("Gene: " + gene);
 
         dna = "GEGEATGCGCCGCGC";
-        startCodon = "ATG";
-        stopCodon = "TAA";
         System.out.println("DNA strand: " + dna);
-        gene = findSimpleGene(dna, startCodon, stopCodon);
+        gene = findSimpleGene(dna);
         System.out.println("Gene: " + gene);
 
         dna = "GEGECGCCGCCGCGC";
-        startCodon = "ATG";
-        stopCodon = "TAA";
         System.out.println("DNA strand: " + dna);
-        gene = findSimpleGene(dna, startCodon, stopCodon);
+        gene = findSimpleGene(dna);
         System.out.println("Gene: " + gene);
 
         dna = "GEGATGCCGCCGTAA";
-        startCodon = "ATG";
-        stopCodon = "TAA";
         System.out.println("DNA strand: " + dna);
-        gene = findSimpleGene(dna, startCodon, stopCodon);
+        gene = findSimpleGene(dna);
         System.out.println("Substring is 6: " + gene);
 
         dna = "GEGATGCCGCGTAA";
-        startCodon = "ATG";
-        stopCodon = "TAA";
         System.out.println("DNA strand: " + dna);
-        gene = findSimpleGene(dna, startCodon, stopCodon);
+        gene = findSimpleGene(dna);
         System.out.println("Substring is not mult of 3: " + gene);
     }
      */
